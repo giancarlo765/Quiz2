@@ -1,0 +1,60 @@
+p {
+    text-align: justify;
+    font-size: 25px;
+}
+body{
+    font-family: 'Poppins';
+    font-size: 25px;
+}
+
+/* MY PARAGRAPH */
+.body{
+    line-height: 95%;
+    margin-bottom: 120px;
+    margin-left: 220px;
+    margin-right: 220px;
+    align-content: center;
+    color: white;
+}
+/* ABOUT ME */
+.aboutme{
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+}
+.profile{
+    display: block;
+    margin-left: 730px;
+    margin-right: 720px;
+    float: center;
+    width: 350;
+    border-radius: 50%;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+.mefonts{
+    min-height: 100vh;
+    width: 100%;
+    background-image: url('Images/computer.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+/* ME GOALS*/
+.goalimg{
+    display: block;
+    margin-left: 520px;
+    margin-right: 720px;
+    float: center;
+    width: 350;
+}
+.megoals{
+    line-height: 100%;
+    margin-bottom: 120px;
+    margin-left: 220px;
+    margin-right: 220px;
+    align-content: center;
+    color: white;
+}
